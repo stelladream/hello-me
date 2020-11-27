@@ -25,10 +25,9 @@ github를 통해 연락처를 공유할 수 있어 지속적인 관계 유지가
 1) CV 저장소(@stelladream/hello-me)를 fork한후 자신의 컴퓨터로 clone 하기  
 2) 자신의 컴퓨터에서  "cv" branch를 생성한 후, "OSS-분반-이름.md" 화일(예: OSS-A-홍길동.md)을 생성하여 이력서를 작성, 그리고 학생의 github 계정으로 푸시(add->commit->push), 이 때 markdown 을 활용하여 이력서를 작성할 것(3번의 샘플 참조)
 3) @stelladream/hello-me 레포지토리의 main 브랜치로 Pull request 전송하여 이력서 반영 요청(your repo/cv 브랜치 -> @stelladream/hello-me/main 브랜치)   
-4) pull request 확인 후, merge 수행  
+4) 교수는 pull request 확인 후, merge 수행  
 
-Note: 과제를 하기 전에는 반드시 git pull을 통해 최신 버전을 받은 후, 수정하세요~~
-
+Note: 과제를 하기 전에는 반드시 git pull을(@stelladream/hello-me) 통해 최신 버전을 받은 후, 수정하세요~~
 
 학생들은 아래 샘플을 참조하여 자신의 이력서를 만들어보세요.
 
