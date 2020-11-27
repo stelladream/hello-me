@@ -33,7 +33,7 @@ Note: 과제를 하기 전에는 반드시 git pull을 통해 최신 버전을 �
 학생들은 아래 샘플을 참조하여 자신의 이력서를 만들어보세요.
 
 ##### 3. CV 샘플:
-* [MarkDown 샘플](https://github.com/jamesjoshuahill/cv.git)
+* [MarkDown 샘플](https://github.com/stelladream/hello-git/blob/master/README.md)
 * [CV 샘플 1](https://github.com/hyeonyoung92/Resume)
 * [CV 샘플 2](https://github.com/Limky/specification)
 
