@@ -72,7 +72,7 @@ No Pain No Gain !!!
 
 
 ### 5. 프로젝트(Projects)
-* 캡스톤디자인 -  다중 사용자의 비대칭 가상환경(AR, VR)에서의 상호작용에 관한 연구  : https://github.com/cyo-yunsik
+* 캡스톤디자인 -  다중 사용자의 비대칭 가상환경(AR, VR)에서의 상호작용에 관한 연구  : https://github.com/cho-yunsik
 
 
 ### 6. 연락처(Contact)
