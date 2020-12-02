@@ -10,7 +10,7 @@ Machine Learning과 Data Mining에 관심 있는 개발자.
 
 **생년월일:** 97.03.18
 
-
+![증명사진.jpg](https://github.com/IDeal7/hello-me/blob/cv/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84.jpg?raw=true)
 
 ### 2. 학력 사항(Education)
 
