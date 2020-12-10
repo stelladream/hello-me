@@ -10,7 +10,7 @@
 
 **생년월일:** 98.12.18
 
-![image-ajw](https://github.com/AJWkr/hello-me/tree/cv/images/jaewoong.jpg)
+![imageajw](https://github.com/AJWkr/hello-me/tree/cv/images/jaewoong.jpg)
 
 ### 2. 학력 사항(Education)
 
