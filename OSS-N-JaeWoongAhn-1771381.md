@@ -4,6 +4,8 @@
 
 실패는 있어도 포기는 없는 개발자
 
+아이디어가 풍부한 창의적인 개발자
+
 ### 1. 인적사항(Personal Information)
 
 **이름:** 안재웅(Jaewoong, Ahn)
