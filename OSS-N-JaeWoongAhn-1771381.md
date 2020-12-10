@@ -66,5 +66,5 @@
 
 ### 7. 연락처(Contact)
 
-github: [https://github.com/AJWkr](https://github.com/AJWkr)
-email: [ajwgk057@hansung.ac.kr](ajwgk057@hansung.ac.kr
+github: [https://github.com/AJWkr](https://github.com/AJWkr)  
+email: [ajwgk057@hansung.ac.kr](ajwgk057@hansung.ac.kr)
