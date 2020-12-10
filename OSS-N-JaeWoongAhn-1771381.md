@@ -10,7 +10,7 @@
 
 **생년월일:** 98.12.18
 
-![image](https://github.com/AJWkr/hello-me/images/jaewoong.jpg)
+![image](https://github.com/AJWkr/hello-me/tree/cv/images/jaewoong.jpg)
 
 ### 2. 학력 사항(Education)
 
@@ -22,7 +22,7 @@
 
 3.1 기초지식(Basics)
 
- * Programming Languages: C, C++, Java, Javascript, R, Python
+ * Programming Languages: **C**, C++, **Java**, Javascript, R, Python
  * Operationg Systems: Linux
  * IDE(Eclipse)
 
