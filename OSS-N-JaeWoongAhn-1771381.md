@@ -64,6 +64,8 @@
 
 ### 6. 프로젝트(Projects)
 
+모바일&스마트시스템-라즈베리파이를 이용한 자동차 후방감지시스템 구축
+
 ### 7. 연락처(Contact)
 
 github: [https://github.com/AJWkr](https://github.com/AJWkr)  
