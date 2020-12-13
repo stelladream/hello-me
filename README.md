@@ -1,43 +1,59 @@
-## 한성대학교 컴퓨터공학부 학생의 CV(curriculum vitae) 저장소입니다.
+# 박성찬 / Seongchan-Park
+취미가  코딩인 천직 개발자
 
-협업을 통해 개인 이력서를 지속적으로 개선하기 위한 저장소입니다.   
+팀원들로부터 신뢰와 믿음을 얻으며 함께 소통하는 개발자
 
-#### 1. 사용 목적
+안되면 될때까지 하는 독한 개발자
 
-학생들의 이력서를 저장하고 있으며,
-저장소를 유지하는 목적은 다음과 같습니다.
+### 1.인적사항(Personal Information)  
 
-1) 이력서 관리  
-타인의 이력서를 참조하면서 자신의 이력서를 지속적으로 업데이트합니다.     
-또한 타인 이력에 도움이 될 만한 정보를 제공함으로써 공유 및 협업의 중요성을 배울 수 있습니다.
-
-2) 양질의 취업 기회 제공  
-이력서와 함께 github 활동 이력은 기업에게 좋은 정보입니다.   
-따라서 개인의 역량 및 포트폴리오를 맘껏 뽐낼수 있는 기회입니다.
-
-3) 선후배간의 지속적인 관계 유지  
-졸업 후 학생의 연락처가 변경될 경우 연락이 단절되는 면이 있지만,  
-github를 통해 연락처를 공유할 수 있어 지속적인 관계 유지가 가능합니다.
+  **이름:** 박성찬 
+  
+  **생년월일:** 97.03.05  
+  
+  
+### 2.학력 사항(Education)  
+| 입학년월 | 졸업년월 | 출신 학교 |전공 | 평균/평점 | 
+| :---         |     :---:      |        :---:   |    :---:      | :---:       |  
+| 2017.2 | 2023.2 | 한성대학교   |컴퓨터공학부 | 3.6/4.5 |
 
 
-#### 2. Git 사용 방법
+### 3. 보유기술(Technical Skills)
 
-1) CV 저장소(@stelladream/hello-me)를 fork한후 자신의 컴퓨터로 clone 하기  
-2) 자신의 컴퓨터에서  "cv" branch를 생성한 후, "OSS-분반-이름-학번.md" 화일(예: OSS-A-홍길동-112233.md)을 생성하여 이력서를 작성, 그리고 학생의 github 계정으로 푸시(add->commit->push), 이 때 markdown 을 활용하여 이력서를 작성할 것(3번의 샘플 참조)
-3) @stelladream/hello-me 레포지토리의 main 브랜치로 Pull request 전송하여 이력서 반영 요청(your repo/cv 브랜치 -> @stelladream/hello-me/main 브랜치)   
-4) 교수는 pull request 확인 후, merge 수행  
+3.1  기초지식(Basics)
+* Programming Languages: C, __Java__, Javascript, __Python__
+* Operating Systems: __Linux__,__Unix__
+* IDE(Eclipse)
 
-Note: 과제를 하기 전에는 반드시 git pull을(@stelladream/hello-me) 통해 최신 버전을 받은 후, 수정하세요~~
+3.2 웹 개발(Web Development)
+* Server(Apache web server, AWS)
 
-학생들은 아래 샘플을 참조하여 자신의 이력서를 만들어보세요.
+3.3 학부 수강 과목(Course)
+* ( 언어 ) C, JAVA, Python
+* ( 통신 ) 데이터 통신
+* ( 이론 ) 알고리즘, 컴퓨터구조, 프로그래밍 언어론
+* ( IPP Internship course ) 오픈소스 소프트웨어, 라즈베리파이, 아두이노
+* ( 웹 ) 웹프로그래밍(html,css,javascript), flask
+* ( 글로벌 커뮤니케이션 ) Basic Career English, 영어커뮤니케이션
+* ( 기타 ) 생산서비스 경영, 지식재산과 인공지능, 엔터테이먼트산업과SW
 
-#### 3. CV 샘플:
-* [MarkDown 샘플](https://github.com/stelladream/hello-git/blob/master/README.md)
-* [CV 샘플 1](https://github.com/hyeonyoung92/Resume)
-* [CV 샘플 2](https://github.com/Limky/specification)
+### 4.경력(Career)
 
-#### 4. 종료시한
-12월 13일(일) 오후 11시 55분  
-즉, 종료시한까지 Pull requests 전송을 마쳐야 함을 의미.  
-만약 교수가 레포지토리에 변경 사항을 합병(merge)할 수 없다면 실패로 판단하고 다시 전송할 것으로 요구할 예정. 이 때는 감점이 있음.
+| 경력명 | 수상일자 | 기관 |
+| :---         |     :---      |         :---:    |
+| 서빙 아르바이트 |2017.02~2017.05      | 홍콩반점   |
+| 사무보조  |2018.01~2018.02    | 에스원   |
 
+### 5.프로젝트(Projects)
+
+| 경력 구분 | 활동 내용 | 기관 |활동기간 |
+| :---         |     :---:      |        :---:   |    :---:      |
+| 과학기술정보통신부|포스트 코로나시대 대비 ICT challenge|과학기술정보통신부|2020.07 ~2020.08|
+| 개발 프로젝트 |라즈베리파이를 이용한 택배 블랙박스|한성대학교|2020.11|
+| 개발 프로젝트 |틀린그림찾기 게임(Java)|한성대학교|2020.12|
+
+
+
+### 6.연락처(Contact)
+github: https://github.com/ran-3roads
+email: ckstjd9735@gmail.com 
